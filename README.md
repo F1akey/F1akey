@@ -11,7 +11,7 @@
 
 - 💬 About me **Student, JR Web Developer, Gamer**
 
-- 📫 How to reach me **Discord: Flakey#1111 Email: flakey_business@gmail.com**
+- 📫 How to reach me **Discord: Flakey#1111 Email: dev.flakey.business@gmail.com**
 
 - ⚡ Fun fact **Im learning so im no pro**
 

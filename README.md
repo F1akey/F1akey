@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Flakey</h1>
+<h1 align="center">Hi 👋, I'm Ghost</h1>
 <h3 align="center">A passionate JR Web Developer from the UK</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=F1akey&label=Profile%20views&color=0e75b6&style=flat" alt="F1akey" /> </p>
@@ -11,7 +11,7 @@
 
 - 💬 About me **Student, JR Web Developer, Gamer**
 
-- 📫 How to reach me **Discord: Flakey#1111 Email: dev.flakey.business@gmail.com**
+- 📫 How to reach me **Discord: Ghost#5582**
 
 - ⚡ Fun fact **Im learning so im no pro**
 
